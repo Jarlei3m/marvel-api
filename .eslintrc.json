@@ -18,6 +18,9 @@
     "plugin:@typescript-eslint/recommended",
     "prettier"
   ],
+  "rules": {
+    "@next/next/no-document-import-in-page": "off"
+  },
   "settings": {
     "react": {
       "version": "detect"

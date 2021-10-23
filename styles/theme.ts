@@ -9,14 +9,15 @@ const theme = createTheme({
       main: '#556cd6',
     },
     secondary: {
-      main: '#19857b',
+      main: '#e62429',
+      dark: '#801215',
     },
     // error: {
     //   main: red.A400,
     // },
     background: {
       default: '#3D3C42',
-      paper: '#a8a8b3',
+      paper: '#e62429',
     },
     text: {
       primary: colors.common.white,
